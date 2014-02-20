@@ -1,7 +1,8 @@
 {
-  "name": "next-tick",
+  "name": "timoxley-next-tick",
   "description": "next tick for browser.",
   "version": "0.0.2",
   "keywords": [],
+  "dependencies": {},
   "license": "MIT"
 }
